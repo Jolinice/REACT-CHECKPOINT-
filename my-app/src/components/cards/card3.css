@@ -1,0 +1,21 @@
+.cardT {
+    color: white;
+    text-shadow: 2px 2px #878f5e;
+}
+.text3 a{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #69a3b2;
+}
+.cardlink {
+    color: white;
+    text-decoration: none;
+}
+.cardlink:hover{
+    color: black;
+    text-decoration: underline;
+}

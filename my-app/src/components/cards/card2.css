@@ -1,0 +1,25 @@
+.socials {
+    color: #878f5e;
+    margin-left: 28%;
+    margin-top: 60%;
+}
+.sub{
+    margin-left: 17%;
+    color:#4e4c46;
+}
+.text{
+    color: #878f5e;
+    margin-top: 10%;
+}
+.icon {
+    color: #878f5e;
+    margin-left: 20%;
+    margin-top: 90%;
+}
+.icon i {
+    font-size: 1.5em;
+    margin-top: 20%;
+}
+.icon i :hover{
+    color:  #4e4c46;
+}

@@ -1,0 +1,17 @@
+.App {
+  /* text-align: center; */
+  font-family:Roboto Condensed ;
+  font-size: small;
+background-color: lightslategray;
+background-size: cover;
+
+  
+}
+.card-container{
+  display: grid;
+  grid-template-columns: 230px 230px 230px;
+  gap: 20px;
+  justify-content: center;
+  padding: 1%;
+  
+}
